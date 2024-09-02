@@ -2,4 +2,6 @@
 
 2. https://turso.tech/
 
+3. https://www.architecture-weekly.com/p/using-s3-but-not-the-way-you-expected
+
 
